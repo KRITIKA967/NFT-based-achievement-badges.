@@ -19,3 +19,8 @@ The goal is to provide a blockchain-based ecosystem where digital creators can s
 - **NFT Trading**: Users can list NFTs for sale and purchase them using cryptocurrency.
 - **Direct Payments**: Sellers receive payments directly upon a successful transaction.
 
+Contract Adress: 0xa4271f3fa50b1b4b3ca2214dc91db134dd8063ad
+
+![image](https://github.com/user-attachments/assets/a44c1976-7305-4538-b3c5-4631adc22f50)
+
+
